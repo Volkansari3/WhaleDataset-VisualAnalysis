@@ -5,29 +5,34 @@ The analysis explores spatial and temporal patterns of marine mammals across dif
 
 ---
 
-## 📊 Features
+## 📊 Key Features
 
-- **Exploratory Data Analysis (EDA)** of whale and dolphin observations  
-- **Geospatial visualization** using `plotly.express.scatter_geo`  
-- **Boxplots stripplots and heatmaps** of latitude, depth (bathymetry), and temperature  
-- **Temporal trends** in observations over the years  
-- Species-level filtering and statistical insights using `pandas`, `seaborn`, and `matplotlib`
+- 📍 **Geospatial Mapping**  
+  Using `scatter_geo`, whale and dolphin sightings are plotted globally based on latitude and longitude.
 
----
+- 🌡️ **Environmental Analysis**  
+  The dataset includes **sea surface temperature**, **bathymetry (depth)**, and **latitude**, allowing comparisons across species and oceanic regions.
 
-## 🧪 Technologies Used
+- 📦 **Species Grouping and Aggregation**  
+  Observations are grouped by species, enabling average-depth, temperature, and spatial distribution analysis.
 
-- Python (3.x)
-- pandas, numpy
-- seaborn, matplotlib
-- plotly
+- 📈 **Temporal Trend Analysis**  
+  Sightings over multiple decades are visualized to explore possible seasonal or long-term trends.
+
+- 🎨 **Visual Methods Used**  
+  - Heatmaps  
+  - Boxplots  
+  - Countplots  
+  - Scatter plots  
+  - Strip plots  
+  - Interactive geographical maps (`plotly`)
 
 ---
 
 ## 📂 Project Structure
 
 WhaleDataset-VisualAnalysis/
-├── Practice-Whale.ipynb # Main notebook
+├── Marine Mammal - Visual Analysis.ipynb # Main notebook
 ├── assets/ # Saved plot images (optional)
 │ └── scatter_geo_map.png
 ├── LICENSE # MIT License for code
