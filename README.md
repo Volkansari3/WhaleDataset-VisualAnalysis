@@ -59,3 +59,23 @@ Halpin, P.N., A.J. Read, et al. 2009. OBIS-SEAMAP: The world data center for mar
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
+
+---
+
+## 🗺️ Visual Maps of Species Observations
+
+### 1. Whale vs Dolphin Group Distribution
+![Species Group Map](assets/species_map.png)
+
+### 2. Global Tropical Sightings of Marine Mammal Species
+![Tropical Species Map](assets/tropical_species_map.png)
+
+### 3. Global Subtropical Sightings of Marine Mammal Species
+![Subtropical Species Map](assets/subtropical_species_map.png)
+
+### 4. Global Polar Sightings of Marine Mammal Species
+![Polar Species Map](assets/polar_species_map.png)
+
+### 5. Geographic Distribution of Dolphins, Killer Whales, and Minke Whales
+![Common Name Map](assets/killerwhale_dolphin_minke_map.png)
+
